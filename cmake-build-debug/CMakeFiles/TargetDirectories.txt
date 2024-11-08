@@ -1,0 +1,3 @@
+C:/Users/Nout/Desktop/Физтех/Информатика/III семестр/laba2/cmake-build-debug/CMakeFiles/laba2.dir
+C:/Users/Nout/Desktop/Физтех/Информатика/III семестр/laba2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nout/Desktop/Физтех/Информатика/III семестр/laba2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
